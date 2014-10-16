@@ -16,7 +16,7 @@ function my_progress() {
   // else return error message
 }
 
-function testNiggers() {
+function testProgress() {
   Logger.log(progress("Revision"));
 }
 
